@@ -1,26 +1,3 @@
-906030
-
-
-
-
-  margin-top: auto;
-  margin-right: auto;
-  margin-left: auto;
-  border: 8px double black;
-  width: 325px;
-  height: 300px;
-
-
-
-
-
-
-
-
-
-
-
-
 import turtle
 
 
