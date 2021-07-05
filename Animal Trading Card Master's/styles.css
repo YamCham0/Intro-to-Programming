@@ -1,0 +1,56 @@
+h3 {
+  border-radius: 50%;
+  background: burlywood;
+  color: darkred;
+  font: bold italic 20pt monospace;
+}
+
+img {
+  border: 10px double black;
+  padding: 5px;
+}
+
+.italic {
+  font-style: italic;
+}
+
+p {
+  color: darkred;
+  font: 13pt fantasy;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  color: darkred;
+  text-align: left;
+  font: italic 11pt monospace;
+}
+
+span {
+  font: bold 11pt sans-serif;
+}
+
+body {
+  background-color: orange;
+}
+
+.container {
+  box-shadow: 10px 5px 5px gray;
+  text-align: center;
+  border: 10px double black;
+  width: 400px;
+  height: 600px;
+}
+
+.box {
+  background-color: #b58350;
+  margin-top: 3px;
+  margin-right: auto;
+  margin-left: auto;
+  border: 8px double black;
+  width: 325px;
+  height: 255px;
+}
