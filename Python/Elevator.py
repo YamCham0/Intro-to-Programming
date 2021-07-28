@@ -10,7 +10,7 @@ print_pause("You have just arrived at your new job!")
 print_pause("You are in the elevator.")
 while True:
     print_pause("Please enter the number for the "
-                "floor you would like to visit:n/")
+                "floor you would like to visit:")
     floor = input("1. Lobby\n"
                   "2. Human resources\n"
                   "3. Engineering department\n")

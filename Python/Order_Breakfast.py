@@ -39,7 +39,7 @@ def get_order():
 def order_again():
     response = valid_input("Would you like to place another order? "
                            "Please say 'yes' or 'no'.\n",
-                           "yes", "no")
+                           "yes", "no").lower()
     if "no" in response:
         print_pause("Ok, goodbye!")
     elif "yes" in response:
